@@ -12,6 +12,15 @@ public class MouseClicking : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        if(Mouse.current != null && Mouse.current.leftButton.wasPressedThisFrame)
+        {
+            Vector2 screenPos = Mouse.current.position.ReadValue();
+
+            Ray ray = Camera.main.ScreenPointToRay(screenPos);
+            if(Physics.Raycast(ray, out RaycastHit hit))
+            {
+                Debug.Log("Mouse clicked on: " + hit.collider.gameObject.name);
+            }
+        }
     }
 }
