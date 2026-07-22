@@ -11,15 +11,15 @@ public class MaterialChanger : MonoBehaviour
         data = GetComponent<SurfaceData>();
     }
 
-    void Start() 
+    public void ChangeMaterial(Material newMaterial)
     {
-        //Debug.Log($"Height: {data.getHeight()}\n Length: {data.getLength()}");
-
-        wallRenderer.material.mainTextureScale = new Vector2(data.Length, data.Width);
+        wallRenderer.material = newMaterial;
+        wallRenderer.material.mainTextureScale =
+            new Vector2(data.Length, data.Width);
     }
 
-    public void ChangeMaterial(Material newMaterial)
-    {   
-        wallRenderer.material = newMaterial;
+    void Start()
+    {
+        //Debug.Log($"{name} Length={data.Length} Width={data.Width}");
     }
 }
