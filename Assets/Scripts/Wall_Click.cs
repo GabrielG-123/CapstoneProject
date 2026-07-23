@@ -18,10 +18,10 @@ public class Wall_Click : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        if (UI_Panel != null)
-        {
-            UI_Panel.SetActive(false); // Ensure the UI panel is initially hidden
-        }
+        if (UI_Panel != null) {
+
+            UI_Panel.SetActive(false);
+          }
 
          // Populate the UI panel with item slots and textures
     }
@@ -61,7 +61,8 @@ public class Wall_Click : MonoBehaviour
     {
         if (UI_Panel != null)
         {
-            UI_Panel.SetActive(true);
+            menuController.UI_Panel = UI_Panel; // Assign the UI panel to the MenuController
+            menuController.OpenMenu(); // Call the OpenMenu method in MenuController to show the UI panel
             menuController.menuActive = true;
             SelectionManager.Instance.SelectWallClick(this.gameObject); // Show the UI panel when the wall is clicked
         }
