@@ -66,6 +66,7 @@ namespace StarterAssets
 			sprint = newSprintState;
 		}
 		
+		/*
 		private void OnApplicationFocus(bool hasFocus)
 		{
 			SetCursorState(cursorLocked);
@@ -75,6 +76,7 @@ namespace StarterAssets
 		{
 			Cursor.lockState = newState ? CursorLockMode.Locked : CursorLockMode.None;
 		}
+		*/
 	}
 	
 }
