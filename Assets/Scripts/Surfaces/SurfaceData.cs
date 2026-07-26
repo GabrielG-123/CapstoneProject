@@ -39,8 +39,8 @@ public class SurfaceData : MonoBehaviour
 
         System.Array.Sort(dims);
 
-        width = Mathf.Round(dims[1]);
-        length = Mathf.Round(dims[2]);
+        width = dims[1];//Mathf.Round(dims[1]);
+        length = dims[2];// Mathf.Round(dims[2]);
 
         area = length * width;
     }
