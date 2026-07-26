@@ -18,10 +18,10 @@ public class Wall_Click : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        if (UI_Panel != null) {
+        //if (UI_Panel != null) {
 
-            UI_Panel.SetActive(false);
-          }
+        //    UI_Panel.SetActive(false);
+        //  }
 
          // Populate the UI panel with item slots and textures
     }
