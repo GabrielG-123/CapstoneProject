@@ -21,7 +21,15 @@ namespace StarterAssets
 		public bool cursorInputForLook = true;
 
 #if ENABLE_INPUT_SYSTEM
-		public void OnMove(InputValue value)
+
+        private void Update()
+        {
+          //  Debug.Log("The state of cursorLocked is: " + cursorLocked);
+            Debug.Log("The state of lockstate is: " + Cursor.lockState);
+        }
+
+
+        public void OnMove(InputValue value)
 		{
 			MoveInput(value.Get<Vector2>());
 		}
@@ -65,6 +73,14 @@ namespace StarterAssets
 		{
 			sprint = newSprintState;
 		}
+
+		private void OnApplicationFocus(bool hasFocus)
+		{
+			//Debug.Log("The state of cursorLocked is: " + cursorLocked);
+			SetCursorState(cursorLocked);
+			
+		}
+
 		
 		/*
 		private void OnApplicationFocus(bool hasFocus)
