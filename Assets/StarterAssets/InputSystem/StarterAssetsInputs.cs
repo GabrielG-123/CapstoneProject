@@ -83,10 +83,7 @@ namespace StarterAssets
 
 		
 		
-		private void OnApplicationFocus(bool hasFocus)
-		{
-			SetCursorState(cursorLocked);
-		}
+		
 
 		private void SetCursorState(bool newState)
 		{
