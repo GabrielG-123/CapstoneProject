@@ -5,6 +5,9 @@ public class MaterialChanger : MonoBehaviour
     private Renderer wallRenderer;
     private SurfaceData data;
 
+    public float legnthScale = 0.5f;
+    public float widthScale = 0.5f;
+
     void Awake()
     {
         wallRenderer = GetComponentInChildren<Renderer>();
@@ -15,11 +18,12 @@ public class MaterialChanger : MonoBehaviour
     {
         wallRenderer.material = newMaterial;
         wallRenderer.material.mainTextureScale =
-            new Vector2(data.Length, data.Width);
+            new Vector2(data.Length * legnthScale, data.Width * widthScale);
     }
 
     void Start()
     {
         //Debug.Log($"{name} Length={data.Length} Width={data.Width}");
+        ChangeMaterial(wallRenderer.material);
     }
 }
