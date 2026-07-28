@@ -8,6 +8,8 @@ public class MenuController : MonoBehaviour
     public GameObject UI_Panel;
     public GameObject ExitButton;
     public GameObject ScrollPanel;
+    public GameObject ThreeDSelectionPanel;
+    
 
 
     public bool menuActive; // Flag to track if the menu is active
@@ -43,6 +45,15 @@ public class MenuController : MonoBehaviour
         {
             return;
         }
+
+        if (ThreeDSelectionPanel != null)
+        {
+            ThreeDSelectionPanel.SetActive(false); // Ensure the 3D selection panel is initially hidden
+        }
+        else
+        {
+            return;
+        }
     }
 
 
@@ -71,10 +82,10 @@ public class MenuController : MonoBehaviour
     {
        //
        //UI_Panel.SetActive(true); // Show the UI panel
-       if(ScrollPanel != null) 
-        {
-            ScrollPanel.SetActive(true); // Show the scroll panel
-        }
+       //if(ScrollPanel != null) 
+       // {
+       //     ScrollPanel.SetActive(true); // Show the scroll panel
+       // }
 
         if (ExitButton != null) 
         {
@@ -87,7 +98,7 @@ public class MenuController : MonoBehaviour
 
     public void CloseMenu()
     {
-      //  UI_Panel.SetActive(false); // Hide the UI panel
+        //  UI_Panel.SetActive(false); // Hide the UI panel
         menuActive = false; // Set the menuActive flag to false
         if (ExitButton != null)
         {
@@ -97,7 +108,11 @@ public class MenuController : MonoBehaviour
         {
             ScrollPanel.SetActive(false); // Hide the scroll panel
         }
-    }
 
+        if (ThreeDSelectionPanel != null)
+        {
+            ThreeDSelectionPanel.SetActive(false); // Hide the 3D selection panel
+        }
+    }
 
 }
