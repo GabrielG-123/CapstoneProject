@@ -7,6 +7,8 @@ public class Wall_Click : MonoBehaviour
 {
     public GameObject UI_Panel; // Reference to the UI panel you want to show
 
+    public GameObject ThreeDSelectionPanel; // Reference to the 3D selection panel
+
     public GameObject itemSlot;
 
     public GameObject wallReference; // Reference to the wall object
@@ -14,6 +16,13 @@ public class Wall_Click : MonoBehaviour
     public List<Texture2D> itemTextures = new List<Texture2D>(); // List of textures for the items
 
     [SerializeField] MenuController menuController; // Reference to the MenuController script   
+
+    public bool is3DPrintedWall = false; // Flag to indicate if the wall is a 3D printed wall
+
+    public Renderer wallRenderer;
+    public Material smoothFinish;
+    public Material threeDPrintedFinish;
+    
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -24,6 +33,10 @@ public class Wall_Click : MonoBehaviour
         //  }
 
          // Populate the UI panel with item slots and textures
+
+        wallRenderer = gameObject.GetComponent<Renderer>();
+
+
     }
 
 
@@ -57,14 +70,50 @@ public class Wall_Click : MonoBehaviour
 
     }
 
+
+   public void SmoothFinishClick() {
+
+        wallRenderer.material = smoothFinish;
+
+        Debug.Log("Smooth finish applied to wall: " + gameObject.name);
+
+
+
+    }
+
+
+    public void ExposedFinishClick() { 
+    
+    
+        wallRenderer.material = threeDPrintedFinish;
+
+
+    }
+
     private void OnMouseDown()
     {
-        if (UI_Panel != null)
-        {
-            menuController.UI_Panel = UI_Panel; // Assign the UI panel to the MenuController
-            menuController.OpenMenu(); // Call the OpenMenu method in MenuController to show the UI panel
+        //if (UI_Panel != null)
+        //{
+        //    menuController.UI_Panel = UI_Panel; // Assign the UI panel to the MenuController
+        //    menuController.OpenMenu(); // Call the OpenMenu method in MenuController to show the UI panel
+        //    menuController.menuActive = true;
+        //    SelectionManager.Instance.SelectWallClick(this.gameObject); // Show the UI panel when the wall is clicked
+        //}
+
+
+
+
+        // Check if the wall is a 3D printed wall and toggle the flag
+        if (gameObject.CompareTag("3DPrinted")) { 
+        
+            ThreeDSelectionPanel.SetActive(true);
+            menuController.OpenMenu();
             menuController.menuActive = true;
-            SelectionManager.Instance.SelectWallClick(this.gameObject); // Show the UI panel when the wall is clicked
+           // SelectionManager.Instance.SelectWallClick(this.gameObject); // Show the 3D selection panel when the wall is clicked
+
+
+
         }
     }
+
 }
