@@ -25,7 +25,7 @@ namespace StarterAssets
         private void Update()
         {
           //  Debug.Log("The state of cursorLocked is: " + cursorLocked);
-            Debug.Log("The state of lockstate is: " + Cursor.lockState);
+          //  Debug.Log("The state of lockstate is: " + Cursor.lockState);
         }
 
 

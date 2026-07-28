@@ -22,7 +22,8 @@ public class Wall_Click : MonoBehaviour
     public Renderer wallRenderer;
     public Material smoothFinish;
     public Material threeDPrintedFinish;
-    
+
+    private MaterialChanger wall;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -43,7 +44,7 @@ public class Wall_Click : MonoBehaviour
     void Awake() {
 
         PopulateTextureGrid();
-
+        wall = GetComponent<MaterialChanger>();
 
     }
 
@@ -73,7 +74,8 @@ public class Wall_Click : MonoBehaviour
 
    public void SmoothFinishClick() {
 
-        wallRenderer.material = smoothFinish;
+        if (wall == null) wallRenderer.material = smoothFinish; 
+        else wall.ChangeMaterial(smoothFinish);
 
         Debug.Log("Smooth finish applied to wall: " + gameObject.name);
 
@@ -82,10 +84,11 @@ public class Wall_Click : MonoBehaviour
     }
 
 
-    public void ExposedFinishClick() { 
-    
-    
-        wallRenderer.material = threeDPrintedFinish;
+    public void ExposedFinishClick() {
+
+
+        if (wall == null) wallRenderer.material = threeDPrintedFinish;
+        else wall.ChangeMaterial(threeDPrintedFinish);
 
 
     }
