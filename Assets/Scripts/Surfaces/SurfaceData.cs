@@ -17,6 +17,8 @@ public class SurfaceData : MonoBehaviour
     [SerializeField] private float width;
     [SerializeField] private float area;
 
+    private float height;
+
     public float Length => length;
     public float Width => width;
     public float Area => area;
@@ -37,6 +39,7 @@ public class SurfaceData : MonoBehaviour
         Vector3 size = Vector3.Scale(mesh.bounds.size, transform.lossyScale);
 
         float[] dims = { size.x, size.y, size.z };
+        height = size.y;
 
         System.Array.Sort(dims);
 
@@ -44,6 +47,11 @@ public class SurfaceData : MonoBehaviour
         length = dims[2];// Mathf.Round(dims[2]);
 
         area = length * width;
+    }
+
+    public float getHeight()
+    {
+        return height;
     }
 
 }

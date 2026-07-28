@@ -17,8 +17,16 @@ public class MaterialChanger : MonoBehaviour
     public void ChangeMaterial(Material newMaterial)
     {
         wallRenderer.material = newMaterial;
-        wallRenderer.material.mainTextureScale =
-            new Vector2(data.Length * legnthScale, data.Width * widthScale);
+        if (data.Length == data.getHeight())
+        {
+            wallRenderer.material.mainTextureScale =
+                new Vector2(data.Width * widthScale, data.Length * legnthScale);
+        }
+        else
+        {
+            wallRenderer.material.mainTextureScale =
+                new Vector2(data.Length * legnthScale, data.Width * widthScale);
+        }
     }
 
     void Start()
