@@ -9,6 +9,7 @@ public class MenuController : MonoBehaviour
     public GameObject ExitButton;
     public GameObject ScrollPanel;
     public GameObject ThreeDSelectionPanel;
+    public GameObject crosshair;
     
 
 
@@ -65,6 +66,7 @@ public class MenuController : MonoBehaviour
                 fpsController.enabled = false; // Disable the FirstPersonController script when the menu is active
                 Cursor.visible = true; // Show the cursor
                 Cursor.lockState = CursorLockMode.None; // Unlock the cursor
+            crosshair.SetActive(false); // Hide the crosshair when the menu is active
 
         }
         else if (fpsController != null && !menuActive) { 
@@ -72,6 +74,7 @@ public class MenuController : MonoBehaviour
                 fpsController.enabled = true; // Enable the FirstPersonController script when the menu is not active
             Cursor.visible = false; // Hide the cursor
             Cursor.lockState = CursorLockMode.Locked; // Lock the cursor
+            crosshair.SetActive(true); // Show the crosshair when the menu is not active
 
         }
 
