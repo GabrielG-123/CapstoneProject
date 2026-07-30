@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class Wall_Click : MonoBehaviour
 {
-    public GameObject UI_Panel; // Reference to the UI panel you want to show
+  //  public GameObject UI_Panel; // Reference to the UI panel you want to show
 
     public GameObject ThreeDSelectionPanel; // Reference to the 3D selection panel
 
@@ -23,7 +23,7 @@ public class Wall_Click : MonoBehaviour
     public Material smoothFinish;
     public Material threeDPrintedFinish;
 
-    private MaterialChanger wall;
+    public MaterialChanger wall;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -44,7 +44,7 @@ public class Wall_Click : MonoBehaviour
     void Awake()
     {
 
-        PopulateTextureGrid();
+      //  PopulateTextureGrid();
         wall = GetComponent<MaterialChanger>();
 
     }
@@ -56,22 +56,22 @@ public class Wall_Click : MonoBehaviour
     }
 
 
-    private void PopulateTextureGrid()
-    {
+    //private void PopulateTextureGrid()
+    //{
 
-        foreach (Texture2D texture in itemTextures)
-        {
-            GameObject newItemSlot = Instantiate(itemSlot, UI_Panel.transform); // Create a new item slot as a child of the UI panel
-            RawImage image = newItemSlot.GetComponent<RawImage>();
-            if (image != null)
-            {
-                image.texture = texture; // Set the texture of the item slot
-            }
-        }
+    //    foreach (Texture2D texture in itemTextures)
+    //    {
+    //        GameObject newItemSlot = Instantiate(itemSlot, UI_Panel.transform); // Create a new item slot as a child of the UI panel
+    //        RawImage image = newItemSlot.GetComponent<RawImage>();
+    //        if (image != null)
+    //        {
+    //            image.texture = texture; // Set the texture of the item slot
+    //        }
+    //    }
 
 
 
-    }
+    //}
 
 
     public void SmoothFinishClick()
@@ -117,6 +117,7 @@ public class Wall_Click : MonoBehaviour
             ThreeDSelectionPanel.SetActive(true);
             menuController.OpenMenu();
             menuController.menuActive = true;
+            SelectionManager.Instance.SelectWallClick(this.gameObject); // Show the 3D selection panel when the wall is clicked
             // SelectionManager.Instance.SelectWallClick(this.gameObject); // Show the 3D selection panel when the wall is clicked
 
 
