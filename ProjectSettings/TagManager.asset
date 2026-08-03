@@ -6,6 +6,7 @@ TagManager:
   tags:
   - CinemachineTarget
   - 3DPrinted
+  - Floor
   layers:
   - Default
   - TransparentFX

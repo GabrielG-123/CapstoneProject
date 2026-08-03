@@ -74,28 +74,28 @@ public class Wall_Click : MonoBehaviour
     //}
 
 
-    public void SmoothFinishClick()
-    {
+    //public void SmoothFinishClick()
+    //{
 
-        if (wall == null) wallRenderer.material = smoothFinish;
-        else wall.ChangeMaterial(smoothFinish);
+    //    if (wall == null) wallRenderer.material = smoothFinish;
+    //    else wall.ChangeMaterial(smoothFinish);
 
-        Debug.Log("Smooth finish applied to wall: " + gameObject.name);
-
-
-
-    }
+    //    Debug.Log("Smooth finish applied to wall: " + gameObject.name);
 
 
-    public void ExposedFinishClick()
-    {
+
+    //}
 
 
-        if (wall == null) wallRenderer.material = threeDPrintedFinish;
-        else wall.ChangeMaterial(threeDPrintedFinish);
+    //public void ExposedFinishClick()
+    //{
 
 
-    }
+    //    if (wall == null) wallRenderer.material = threeDPrintedFinish;
+    //    else wall.ChangeMaterial(threeDPrintedFinish);
+
+
+    //}
 
     private void OnMouseDown()
     {

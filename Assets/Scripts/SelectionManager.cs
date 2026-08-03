@@ -5,8 +5,9 @@ public class SelectionManager : MonoBehaviour
 
     public static SelectionManager Instance { get; private set; }
 
-    public GameObject selectedWall { get; private set; } // Reference to the currently selected Wall_Click script
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    public GameObject selectedWall { get; private set; }
+    public GameObject selectedFloor { get; private set; } 
+  
 
 
     void Awake()
@@ -36,5 +37,12 @@ public class SelectionManager : MonoBehaviour
     public void SelectWallClick(GameObject wall)
     {
         selectedWall = wall;
+    }
+
+    public void SelectFloorClick(GameObject floor) { 
+    
+        
+        selectedFloor = floor;
+    
     }
 }

@@ -27,29 +27,30 @@ public class ButtonHandler : MonoBehaviour
     }
 
 
-    //public void WallTextureApply(GameObject clickedButton) {
+    public void FloorTextureApply(GameObject clickedButton)
+    {
 
-    //    // Now you get the RawImage from the button that was clicked
-    //    RawImage rawImage = clickedButton.GetComponent<RawImage>();
+        // Now you get the RawImage from the button that was clicked
+        RawImage rawImage = clickedButton.GetComponent<RawImage>();
 
-    //    if (rawImage != null)
-    //    {
-    //        Debug.Log("The name of the button is: " + clickedButton.name);
-    //        Debug.Log("Button texture: " + rawImage.texture.name);
+        if (rawImage != null)
+        {
+            Debug.Log("The name of the button is: " + clickedButton.name);
+            Debug.Log("Button texture: " + rawImage.texture.name);
 
-    //        textureImage = rawImage.texture; // Assign the texture from the clicked button to the textureImage variable
-    //    }
+            textureImage = rawImage.texture; // Assign the texture from the clicked button to the textureImage variable
+        }
 
-    //    if (SelectionManager.Instance.selectedWall != null)
-    //    {
-    //        Renderer wallRenderer = SelectionManager.Instance.selectedWall.GetComponent<Renderer>();
-    //        if (wallRenderer != null)
-    //        {
-    //            Debug.Log("Applying texture to wall: " + SelectionManager.Instance.selectedWall.name);
-    //            wallRenderer.material.mainTexture = textureImage;
-    //        }
-    //    }
-    //}
+        if (SelectionManager.Instance.selectedFloor != null)
+        {
+            Renderer wallRenderer = SelectionManager.Instance.selectedFloor.GetComponent<Renderer>();
+            if (wallRenderer != null)
+            {
+               // Debug.Log("Applying texture to wall: " + SelectionManager.Instance.selectedWall.name);
+                wallRenderer.material.mainTexture = textureImage;
+            }
+        }
+    }
 
 
 
