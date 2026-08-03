@@ -119,7 +119,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 4321929526007854994, guid: 6cae1fd58295bab4a9c6b2a624e697f9, type: 3}
         m_TargetAssemblyTypeName: ButtonHandler, Assembly-CSharp
-        m_MethodName: WallTextureApply
+        m_MethodName: FloorTextureApply
         m_Mode: 2
         m_Arguments:
           m_ObjectArgument: {fileID: 2274890763905602765}

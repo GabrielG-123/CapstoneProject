@@ -7,8 +7,9 @@ public class MenuController : MonoBehaviour
     public FirstPersonController fpsController;
     public GameObject UI_Panel;
     public GameObject ExitButton;
-   // public GameObject ScrollPanel;
+   public GameObject ScrollPanel;
     public GameObject ThreeDSelectionPanel;
+    public GameObject floorUI;
     public GameObject crosshair;
     
 
@@ -29,6 +30,11 @@ public class MenuController : MonoBehaviour
         //    return;
         
         //}
+
+
+
+
+
         if (ExitButton != null)
         {
             ExitButton.SetActive(false); // Ensure the exit button is initially hidden
@@ -49,6 +55,20 @@ public class MenuController : MonoBehaviour
         {
             Debug.LogWarning("ThreeDSelectionPanel is not assigned in the inspector.");
             return;
+        }
+
+        if (ScrollPanel != null) { 
+        
+        
+            ScrollPanel.SetActive(false);
+        
+        }
+        else
+        {
+
+            return;
+
+
         }
     }
 
@@ -80,10 +100,10 @@ public class MenuController : MonoBehaviour
     {
        //
        //UI_Panel.SetActive(true); // Show the UI panel
-       //if(ScrollPanel != null) 
-       // {
-       //     ScrollPanel.SetActive(true); // Show the scroll panel
-       // }
+       if(ScrollPanel != null) 
+       {
+         ScrollPanel.SetActive(true); // Show the scroll panel
+       }
 
         if (ExitButton != null) 
         {
@@ -107,6 +127,11 @@ public class MenuController : MonoBehaviour
         if (ThreeDSelectionPanel != null)
         {
             ThreeDSelectionPanel.SetActive(false); // Hide the 3D selection panel
+        }
+
+        if (ScrollPanel != null) {
+            ScrollPanel.SetActive(false);
+        
         }
     }
 
