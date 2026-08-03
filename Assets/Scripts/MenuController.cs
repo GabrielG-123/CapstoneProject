@@ -100,9 +100,14 @@ public class MenuController : MonoBehaviour
     {
        //
        //UI_Panel.SetActive(true); // Show the UI panel
-       if(ScrollPanel != null) 
+       
+        
+        if(ScrollPanel != null) 
        {
-         ScrollPanel.SetActive(true); // Show the scroll panel
+            if (SelectionManager.Instance.floorClicked)
+            {
+                ScrollPanel.SetActive(true); // Show the scroll panel
+            }
        }
 
         if (ExitButton != null) 
@@ -118,6 +123,8 @@ public class MenuController : MonoBehaviour
     {
         //  UI_Panel.SetActive(false); // Hide the UI panel
         menuActive = false; // Set the menuActive flag to false
+        SelectionManager.Instance.wallClicked = false;
+        SelectionManager.Instance.floorClicked = false;
         if (ExitButton != null)
         {
             ExitButton.SetActive(false); // Hide the exit button
@@ -129,6 +136,8 @@ public class MenuController : MonoBehaviour
             ThreeDSelectionPanel.SetActive(false); // Hide the 3D selection panel
         }
 
+        
+        
         if (ScrollPanel != null) {
             ScrollPanel.SetActive(false);
         

@@ -6,7 +6,10 @@ public class SelectionManager : MonoBehaviour
     public static SelectionManager Instance { get; private set; }
 
     public GameObject selectedWall { get; private set; }
-    public GameObject selectedFloor { get; private set; } 
+    public GameObject selectedFloor { get; private set; }
+
+    public bool wallClicked;
+    public bool floorClicked;
   
 
 

@@ -46,10 +46,12 @@ public class Floor_Click : MonoBehaviour
 
     private void OnMouseDown()
     {
-      
+        SelectionManager.Instance.floorClicked = true;
         menuController.OpenMenu(); 
         menuController.menuActive = true;
+       
         SelectionManager.Instance.SelectFloorClick(this.gameObject);
+        
         
 
     }

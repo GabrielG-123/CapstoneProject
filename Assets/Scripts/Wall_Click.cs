@@ -113,10 +113,11 @@ public class Wall_Click : MonoBehaviour
         // Check if the wall is a 3D printed wall and toggle the flag
         if (gameObject.CompareTag("3DPrinted"))
         {
-
+            SelectionManager.Instance.wallClicked = true;
             ThreeDSelectionPanel.SetActive(true);
             menuController.OpenMenu();
             menuController.menuActive = true;
+            
             SelectionManager.Instance.SelectWallClick(this.gameObject); // Show the 3D selection panel when the wall is clicked
             // SelectionManager.Instance.SelectWallClick(this.gameObject); // Show the 3D selection panel when the wall is clicked
 
