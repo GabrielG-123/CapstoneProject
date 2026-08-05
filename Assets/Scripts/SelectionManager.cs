@@ -1,4 +1,5 @@
 using UnityEngine;
+using System.Collections.Generic;
 
 public class SelectionManager : MonoBehaviour
 {
@@ -9,10 +10,15 @@ public class SelectionManager : MonoBehaviour
     //public GameObject selectedFloor { get; private set; }
 
     public GameObject selectedSurface;
+    public Material smoothFinish;
+
+    public float takeOff;
+    public SurfaceData[] surfaces;
+    public List<SurfaceData> printedWalls = new List<SurfaceData>();
 
     //public bool wallClicked;
     //public bool floorClicked;
-  
+
 
 
     void Awake()

@@ -173,7 +173,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &2927686 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 671529273727111460, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -228,7 +231,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &6529772 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -177212809865190353, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -283,7 +289,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &6767450 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2336985291550730335, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -329,7 +338,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &6767460
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -432,7 +444,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &13200496 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -5338519090088085158, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -487,7 +502,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &13779064 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6064362455953408396, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -542,7 +560,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &16713197 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1996388266972738618, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -597,7 +618,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &20987844 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -6382132644975242123, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -652,7 +676,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &21866927 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -2205441295308402007, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -707,7 +734,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &29185357 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2520462896015954918, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -762,7 +792,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &33062447 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4165388903459093033, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -817,7 +850,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &33839121 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -2115891052500576986, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -872,7 +908,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &34747369 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -2803103424318377339, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -906,7 +945,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 1
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &34747378
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -983,7 +1025,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &44414335 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8616685848737228372, guid: c5efc39a8aaf6e64ea40e9ad573e9b47, type: 3}
@@ -1034,7 +1079,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &53981013
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1111,7 +1159,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &58826112 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -7903818539822279313, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -1157,7 +1208,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &58826122
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1234,7 +1288,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &88371747 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -4615562634915880327, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -1280,7 +1337,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &88371757
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1357,7 +1417,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &97826817 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4698393432888405999, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -1412,7 +1475,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &100941758 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8088024816548818321, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -1467,7 +1533,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &109706824 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 749950998565327740, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -1548,7 +1617,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &119024481 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2341123253407137939, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -1603,7 +1675,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &119475348 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 397050539858759486, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -1637,7 +1712,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 1
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &119475357
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1714,7 +1792,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &125336815 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -3314758069717516590, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -1769,7 +1850,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &126366226 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8247210723491972838, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -1815,7 +1899,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &126366236
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1892,7 +1979,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &136119866 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -3115672259886751482, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -1947,7 +2037,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1001 &136252412
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2058,7 +2151,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &157025781 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -1635291561040347831, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -2113,7 +2209,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &160368602 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -7954730401094518849, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -2159,7 +2258,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &160368612
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -2236,7 +2338,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &162950382 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7056130487241746868, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -2291,7 +2396,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &167922984 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -6439339925963782472, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -2346,7 +2454,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &177001312 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6621224110660486219, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -2453,7 +2564,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &190001305 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4282848557528306800, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -2508,7 +2622,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &190077859 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1838865551390477165, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -2554,7 +2671,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &190077869
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -2631,7 +2751,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &197069601 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -8364178876852305581, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -2698,7 +2821,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &197237941 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -7108794111713705385, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -2753,7 +2879,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &198926377 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5166480715199854655, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -2808,7 +2937,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &202559151 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -1545527302984803767, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -2863,7 +2995,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &204635949 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -8386066473617563942, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -2918,7 +3053,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &210771262 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -1217379524026232623, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -2952,7 +3090,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 1
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &210771271
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -3020,7 +3161,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &213940156
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -3097,7 +3241,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &219557391 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -7959365032886742714, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -3131,7 +3278,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 1
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &219557400
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -3208,7 +3358,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &225154023 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -232398706452576684, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -3254,7 +3407,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &225154033
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -3331,7 +3487,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &231711197 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -1126992116810507958, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -3386,7 +3545,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &234342923 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -1849668798323924476, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -3441,7 +3603,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &238089899 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -3270480305794371783, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -3487,7 +3652,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &238089909
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -3564,7 +3732,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &242788233 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -4942697933562553712, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -3619,7 +3790,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &247111337 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8839557341823676520, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -3665,7 +3839,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &247111347
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -3742,7 +3919,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &254142548 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -3907058058983889256, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -3797,7 +3977,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &254780922 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7279626940290557327, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -3852,7 +4035,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1001 &254830240
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -12376,7 +12562,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &266838553 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -2157152298502332990, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -12410,7 +12599,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 1
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &266838562
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -12487,7 +12679,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &271681202 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -8865468649192214734, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -12533,7 +12728,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &271681212
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -12610,7 +12808,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &274229021 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -771780050637987457, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -12656,7 +12857,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &274229031
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -12733,7 +12937,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &275758218 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1539992023133337309, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -12788,7 +12995,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &276384952 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -8750390944376440730, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -12843,7 +13053,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &277135130 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -8273654134381127541, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -12898,7 +13111,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &279647427 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7887533447195504734, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -12944,7 +13160,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &279647437
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -13021,7 +13240,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &283582363 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -4669766466727087048, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -13076,7 +13298,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &284216763 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8692850996199557002, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -13122,7 +13347,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &284216773
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -13225,7 +13453,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &295862022 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -6925423925652768911, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -13280,7 +13511,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &297220493 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -2811214933828106687, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -13335,7 +13569,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &298669470 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -6974833375231809509, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -13390,7 +13627,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &307204024 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -8584398223675745291, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -13445,7 +13685,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &307620534 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7880389767172586983, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -13500,7 +13743,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &315698394 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5710623759479441142, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -13555,7 +13801,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &329259594 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -7216948520697897283, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -13601,7 +13850,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &329259604
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -13678,7 +13930,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &339592839 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -4545763588397267301, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -13733,7 +13988,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &341025811 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -5792047369371533318, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -13788,7 +14046,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &342240022 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -777004425447598265, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -13843,7 +14104,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &349075362 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1192914553086891085, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -13877,7 +14141,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 1
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &349075371
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -13954,7 +14221,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &355776119 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -8354402866529382387, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -14009,7 +14279,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &358988836 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4497605209927706546, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -14064,7 +14337,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &366918372 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -2686812925328093618, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -14110,7 +14386,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &366918382
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -14178,7 +14457,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &367384816
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -14255,7 +14537,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &371454814 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -5182294212764400355, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -14310,7 +14595,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &374950879 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1513859443168931837, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -14365,7 +14653,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &378911477 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5478587681946710384, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -14420,7 +14711,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &383679789 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -5444862233205536132, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -14475,7 +14769,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &392808433 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 824040314722887156, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -14530,7 +14827,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &393322996 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 833322652104922622, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -14585,7 +14885,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &394814072 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3225822626603309819, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -14640,7 +14943,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &396969834 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -3224919318374050232, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -14695,7 +15001,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &401441623 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -654647901593022437, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -14750,7 +15059,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &403220429 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -8702663302168963365, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -14805,7 +15117,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &403687078 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -6009361001762359531, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -14860,7 +15175,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &404921034 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -2185828929536635101, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -14967,7 +15285,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &409338849 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3629152979223872896, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -15022,7 +15343,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &414847298 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 874517386733347798, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -15077,7 +15401,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &416281319 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2844441213702865491, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -15123,7 +15450,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &416281329
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -15200,7 +15530,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &427098198 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -3067808767577623622, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -15255,7 +15588,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &427700598 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2252412818460055116, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -15310,7 +15646,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &431408388 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7862790196020243597, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -15365,7 +15704,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &435479770 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -7799912248777691894, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -15399,7 +15741,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 1
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &435479779
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -15476,7 +15821,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &439099914 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -7825900919356380424, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -15522,7 +15870,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &439099924
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -15599,7 +15950,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &459686351 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -582314474958715294, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -15654,7 +16008,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &461574944 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -6941024781626170817, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -15688,7 +16045,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 1
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &461574953
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -15765,7 +16125,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &465680908 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -3100618869999219249, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -15799,7 +16162,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 1
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &465680917
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -15876,7 +16242,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &467418673 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6806424652943790382, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -15931,7 +16300,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &471175367 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -3754878503722451003, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -15986,7 +16358,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &471563094 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6064911930183478279, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -16041,7 +16416,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &483181361 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -3236115891907539328, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -16096,7 +16474,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &488733544 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 629012209894730834, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -16151,7 +16532,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &490218820 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2086857611870338746, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -16206,7 +16590,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &491618044 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4187816670019432164, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -16261,7 +16648,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &492161510 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -6824671012354037906, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -16316,7 +16706,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &498689271 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -8507634181534195422, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -16371,7 +16764,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &501574513 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -976650299955195720, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -16405,7 +16801,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 1
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &501574522
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -16482,7 +16881,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &505800621 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -2318379155588214035, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -16516,7 +16918,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 1
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &505800630
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -16619,7 +17024,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &509937057 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -5408750909346540496, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -16674,7 +17082,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &513226886 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8703555378379340443, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -16708,7 +17119,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 1
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &513226895
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -16764,7 +17178,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!65 &516773814
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -16863,7 +17280,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &528515777 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -3542883835987592096, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -16918,7 +17338,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &543214634 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -2616431265213720994, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -16952,7 +17375,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 1
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &543214643
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -17029,7 +17455,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &547459015 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4794272956052845560, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -17084,7 +17513,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &549792325 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -8260020578384467271, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -17139,7 +17571,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &550020648 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5854935990478712152, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -17220,7 +17655,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &552375768 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -3704742362446797932, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -17275,7 +17713,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &562862206 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -4607579965076306765, guid: 920bb2a5c0bf1c84eb729f0be00eae4e, type: 3}
@@ -17309,7 +17750,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!65 &562862210
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -17385,7 +17829,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &572440619 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -5281996792824627613, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -17440,7 +17887,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &574860951 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5068022851909770319, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -17521,7 +17971,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &582569825 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -6834255778418277, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -17576,7 +18029,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &587446474 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -784342760215975517, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -17631,7 +18087,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &588447709 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5271195801891758535, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -17686,7 +18145,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &592289761 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2834858307632012034, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -17741,7 +18203,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &593728260 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7099656310977484637, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -17796,7 +18261,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &594030888 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -2355176671387082039, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -17830,7 +18298,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 1
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &594030897
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -17907,7 +18378,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &595949225 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -6709404135909010301, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -17941,7 +18415,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 1
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &595949234
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -18018,7 +18495,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &606231563 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -2910244597263279759, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -18064,7 +18544,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &606231573
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -18246,7 +18729,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &610046759 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -1415510538401183597, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -18301,7 +18787,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &612117278 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2386541808443120884, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -18356,7 +18845,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &612568862 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -1278698991128191356, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -18411,7 +18903,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!4 &617556882 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4135013735270702856, guid: c5efc39a8aaf6e64ea40e9ad573e9b47, type: 3}
@@ -18471,7 +18966,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &625214207 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7444880897501629054, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -18526,7 +19024,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &633865326 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5410205404119491018, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -18572,7 +19073,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &633865336
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -18649,7 +19153,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &647924122 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -3555694068175930345, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -18704,7 +19211,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1001 &659874681
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -18860,7 +19370,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &662638310 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4881535859536025565, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -18915,7 +19428,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1001 &664605933
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -19051,7 +19567,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &671949510 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -1617343734850450295, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -19106,7 +19625,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &671954424 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -5034279601427112377, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -19161,7 +19683,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &673196822 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1312742441834763614, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -19216,7 +19741,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &676831940 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4561976443800222628, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -19271,7 +19799,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &682024755 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -5891715513093783893, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -19305,7 +19836,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 1
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &682024764
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -19382,7 +19916,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &688247773 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -2246080885930122155, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -19437,7 +19974,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &689579841 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3947439640868491903, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -19492,7 +20032,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &690322147 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -236688178717128649, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -19538,7 +20081,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &690322157
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -19615,7 +20161,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &695198777 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -8082993673616963757, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -19696,7 +20245,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &702986538 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -8947574545880003430, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -19751,7 +20303,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &706562347 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1883577865909247584, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -19806,7 +20361,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &706606758 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2868842114134510837, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -19861,7 +20419,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &709452113 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -702413370747836472, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -19916,7 +20477,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &711786311 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -6866036631555221734, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -19962,7 +20526,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &711786321
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -20018,7 +20585,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 1
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &716412145
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -20095,7 +20665,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &731801729 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -1178825720412192243, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -20176,7 +20749,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &738857474 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2767076209723152790, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -20231,7 +20807,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &742718578 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4612545245233346532, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -20286,7 +20865,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &745665025 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -3985885292070050838, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -20341,7 +20923,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &747438969 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6217591559976084488, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -20396,7 +20981,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &750895607 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -8073807687979637279, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -20477,7 +21065,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &755693284 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -3487852789448007975, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -20532,7 +21123,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &759767621 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -3449472613523997975, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -20587,7 +21181,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &759817446 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7388762997395717074, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -20621,7 +21218,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 1
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &759817455
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -20698,7 +21298,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &765957177 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6216084408042100235, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -20753,7 +21356,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &766849968 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -7328227467459283764, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -20808,7 +21414,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &769036128 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -7273314315958392080, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -20863,7 +21472,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &772733051 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4635058180450788079, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -20918,7 +21530,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &779792101 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4901690079987600103, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -20964,7 +21579,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &779792111
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -21041,7 +21659,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &786524122 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2242067927519672576, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -21096,7 +21717,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &795731455 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -3460949274703875773, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -21151,7 +21775,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &800107524 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 81598503585966407, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -21206,7 +21833,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &802562332 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5230724327315992777, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -21240,7 +21870,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 1
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &802562341
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -21317,7 +21950,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &810171637 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -3825910955353256300, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -21351,7 +21987,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 1
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &810171646
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -21407,7 +22046,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 1
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &811706840
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -21484,7 +22126,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &820274651 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -4996994816203832381, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -21539,7 +22184,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &824990277 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6749284833672205970, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -21594,7 +22242,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &825876123 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1738787833262231235, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -21628,7 +22279,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 1
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &825876132
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -21684,7 +22338,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 1
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &831519740
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -21761,7 +22418,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!224 &832325825 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 4776649221445628169, guid: 71b5335aa4dbc414ab285040594855b3, type: 3}
@@ -21800,7 +22460,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 1
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &836541840
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -21877,7 +22540,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &845663798 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7598048586971433480, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -21932,7 +22598,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &848686436 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -5354066540497870013, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -21987,7 +22656,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &854752200 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -4924480836326938034, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -22042,7 +22714,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &866490745 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -422204462173037528, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -22097,7 +22772,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &869086997 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -135884496279233233, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -22143,7 +22821,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &869087007
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -22220,7 +22901,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &877447820 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7195875862683977743, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -22275,7 +22959,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &880542441 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7553215367982232127, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -22356,7 +23043,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &889652026 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -2352695753274523181, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -22411,7 +23101,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &900594023 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -3919530300996984806, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -22466,7 +23159,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &906623586 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4987754022480334150, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -22521,7 +23217,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &907291440 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -3868343054813101750, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -22576,7 +23275,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &913387095 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -2454342745715942278, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -22631,7 +23333,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &917631876 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -1602562266034172705, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -22677,7 +23382,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &917631886
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -22754,7 +23462,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &927594113 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5805862090269902474, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -22800,7 +23511,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &927594123
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -22877,7 +23591,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &934669626 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5265970754487819352, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -22932,7 +23649,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &935551119 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5813116246221108984, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -22978,7 +23698,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &935551129
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -23055,7 +23778,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &939687195 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -7387798692713479973, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -23089,7 +23815,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 1
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &939687204
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -23166,7 +23895,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &943798574 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -7250562102451941329, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -23212,7 +23944,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &943798584
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -23289,7 +24024,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &946076632 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -3426580850142473351, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -23344,7 +24082,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &948653895 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4422940426746048966, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -23399,7 +24140,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &949994830 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6079734501888763728, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -23454,7 +24198,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &950090729 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -7380255747587588066, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -23509,7 +24256,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &951705966 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -8080209882571661303, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -23564,7 +24314,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &953065388 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 9087125849373114941, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -23619,7 +24372,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &953560389 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5707438899467981888, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -23700,7 +24456,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &969247935 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -3576683307939361099, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -23755,7 +24514,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &972329287 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -1834561676876532925, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -23810,7 +24572,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &978989105 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -5444520101765264813, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -23865,7 +24630,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &982906389 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3497804744744088034, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -23920,7 +24688,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &983610612 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -9144499104657231876, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -23975,7 +24746,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &988904547 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6745491687259090310, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -24030,7 +24804,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &992735774 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -4051996855885454320, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -24085,7 +24862,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &992903761 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -5128020198918288467, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -24140,7 +24920,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &994481925 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1929664523738979015, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -24195,7 +24978,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1000039259 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -8104769524727653553, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -24229,7 +25015,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 1
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &1000039268
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -24285,7 +25074,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 1
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &1007958695
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -24362,7 +25154,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1012442325 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -7998474221513923986, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -24417,7 +25212,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1012579138 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6019336916175228591, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -24472,7 +25270,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1017564616 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4390381854382646318, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -24527,7 +25328,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1018285551 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -6951704712447655165, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -24582,7 +25386,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1018448040 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1503196767399685505, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -24616,7 +25423,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 1
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &1018448049
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -24693,7 +25503,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1024931022 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 460873989954323752, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -24739,7 +25552,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &1024931032
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -24812,7 +25628,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &1029660900
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -24889,7 +25708,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1032296394 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -3493695462082327530, guid: 920bb2a5c0bf1c84eb729f0be00eae4e, type: 3}
@@ -24923,7 +25745,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!65 &1032296398
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -24999,7 +25824,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1037241414 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8357979265171918675, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -25054,7 +25882,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1038122955 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -3864571826567101381, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -25109,7 +25940,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1052411090 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3812316140286198332, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -25164,7 +25998,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1052733136 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -6869673449076410912, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -25219,7 +26056,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1052778228 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -9005005868384512825, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -25274,7 +26114,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1053123614 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -4715696111834416841, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -25329,7 +26172,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1054678052 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -8293004113996469653, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -25384,7 +26230,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1057791248 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -543437727162374138, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -25430,7 +26279,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &1057791258
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -25507,7 +26359,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1068415307 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8722952799524015605, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -25562,7 +26417,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1068431209 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -3692753015817205561, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -25608,7 +26466,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &1068431219
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -25685,7 +26546,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1073122975 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -1085441016977974850, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -25740,7 +26604,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1077351415 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4529365203789431369, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -25795,7 +26662,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1082263331 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1163236522050909875, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -25850,7 +26720,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1084052240 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -6508690824212350406, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -25905,7 +26778,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1086126676 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1754812007566998642, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -25960,7 +26836,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1094758418 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 183626318803583982, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -26041,7 +26920,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1117900929 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7681593502705771783, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -26096,7 +26978,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1117983597 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7500914162530783238, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -26151,7 +27036,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1130433973 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314827948805409402, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -26206,7 +27094,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1131294189 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6645564360833391868, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -26261,7 +27152,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1132946192 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1252526787156007353, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -26316,7 +27210,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1133806729 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6323231320601691240, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -26371,7 +27268,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1134509671 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -2771410844333108939, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -26426,7 +27326,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1135668031 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -6818680800818632479, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -26481,7 +27384,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1139271987 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7585278613942207284, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -26548,7 +27454,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1145602934 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -6500091233165470373, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -26582,7 +27491,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 1
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &1145602943
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -26659,7 +27571,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1149232366 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7547142624006058062, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -26693,7 +27608,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 1
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &1149232375
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -26770,7 +27688,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1157719434 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -3523080436649527747, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -26825,7 +27746,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1159371515 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3548933782555532167, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -26880,7 +27804,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1161901611 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -4849490447653647108, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -26935,7 +27862,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1175208685 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -233207728429372797, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -26990,7 +27920,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1176100169 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -2606526537666077249, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -27024,7 +27957,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 1
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &1176100178
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -27080,7 +28016,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 1
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &1177257334
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -27136,7 +28075,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 1
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &1177350145
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -27239,7 +28181,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1181568443 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2686184210666396594, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -27285,7 +28230,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &1181568453
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -27641,7 +28589,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1189891920 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4808003802559169127, guid: 920bb2a5c0bf1c84eb729f0be00eae4e, type: 3}
@@ -27675,7 +28626,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!65 &1189891924
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -27751,7 +28705,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1197242414 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -4362492850806629609, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -27785,7 +28742,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 1
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &1197242423
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -27862,7 +28822,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1200737818 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7943668388063934780, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -27917,7 +28880,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1201728082 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -6279852435485382825, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -27998,7 +28964,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1211333066 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6671951722703727022, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -28053,7 +29022,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1213052904 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -3117730918652061715, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -28108,7 +29080,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1213056174 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -8473830175923647229, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -28163,7 +29138,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1220492172 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5965844327040627630, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -28197,7 +29175,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 1
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &1220492181
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -28274,7 +29255,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1223731224 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -7370853851093541951, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -28329,7 +29313,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1231355840 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -2423515717116865615, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -28384,7 +29371,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1233336719 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -6638382919436510182, guid: 920bb2a5c0bf1c84eb729f0be00eae4e, type: 3}
@@ -28418,7 +29408,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!65 &1233336723
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -28494,7 +29487,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1234539131 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 529107837432147112, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -28575,7 +29571,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1238635669 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -3762838635671625408, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -28609,7 +29608,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 1
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &1238635678
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -28677,7 +29679,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &1242070339
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -28754,7 +29759,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1246116926 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -6035036520850015040, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -28809,7 +29817,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1246494214 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8454768852921765753, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -28864,7 +29875,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1246995321 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -6463936303494553521, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -28919,7 +29933,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1254115844 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6183541388578497436, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -29000,7 +30017,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1264044998 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1453518428424864894, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -29046,7 +30066,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &1264045008
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -29123,7 +30146,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1273300695
 GameObject:
   m_ObjectHideFlags: 0
@@ -29241,7 +30267,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 1
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &1279227359
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -29318,7 +30347,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1286549754 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1278045995333758176, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -29373,7 +30405,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1291670689 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -832670727620296077, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -29445,7 +30480,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &1295167895
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -29522,7 +30560,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1298073087 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2441802034819030394, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -29577,7 +30618,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1001 &1303727050
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -29704,7 +30748,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1322539365 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7316616253803092884, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -29759,7 +30806,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1326896774 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -9030237834288455970, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -29814,7 +30864,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1327333327 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3910855626986253518, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -29869,7 +30922,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1329610350 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6144815106665019601, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -29924,7 +30980,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1330647779 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1538592837780248666, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -29979,7 +31038,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1331339740 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -1567641267485521973, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -30034,7 +31096,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1334563990 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3434879402391874766, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -30089,7 +31154,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1338185857 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -5110514359341097686, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -30144,7 +31212,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1345278928 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6178103366251233869, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -30199,7 +31270,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1357336338 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2022121312568085612, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -30254,7 +31328,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1361804569 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 9171875840574157330, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -30309,7 +31386,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1368691771 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -8421083789428885038, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -30364,7 +31444,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1369044932 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3741560570905857470, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -30419,7 +31502,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1370330786 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -1367531543365126582, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -30453,7 +31539,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 1
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &1370330795
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -30530,7 +31619,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1372860949 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -2837645625065394620, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -30585,7 +31677,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1373451897 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -7333968847611123839, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -30640,7 +31735,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1374690453 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -2911699655545280062, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -30695,7 +31793,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1376054911 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7718652750413997571, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -30750,7 +31851,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1376576185 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -7744580818950335457, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -30805,7 +31909,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1377663188 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -1696229991655197844, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -30860,7 +31967,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1378909367 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8911742602121822397, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -30915,7 +32025,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1382837488 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -1478962165847255207, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -30970,7 +32083,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1386893543 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5338458853148858880, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -31025,7 +32141,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1388759422 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7209425012591761906, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -31080,7 +32199,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1390019950 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4297399782999102673, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -31135,7 +32257,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1396948229 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 374398429367065133, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -31190,7 +32315,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1398537275 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -6022825710215465298, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -31245,7 +32373,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1398610544 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3177971098368084437, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -31300,7 +32431,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1401163015 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -519761318887196498, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -31355,7 +32489,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1408080811 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2839091816537997979, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -31401,7 +32538,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &1408080821
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -31478,7 +32618,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1410536465 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -3347575262899211186, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -31533,7 +32676,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1411895169 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -7029948723529949830, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -31567,7 +32713,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1417543806 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -3943655067059453833, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -31622,7 +32771,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1425502314 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5445706923623963591, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -31677,7 +32829,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1439673784 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4249492635863623775, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -31732,7 +32887,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1443727363 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -1486196596555676744, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -31787,7 +32945,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1450129103 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 646412004597722057, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -31833,7 +32994,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &1450129113
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -31910,7 +33074,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1457248930 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -1669995108607586024, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -31965,7 +33132,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1458889186 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6802060941427059200, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -32020,7 +33190,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1461576865 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 953670790877126425, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -32075,7 +33248,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1461624921 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -2977291225180492869, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -32130,7 +33306,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1462626350 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -8386331866634330482, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -32185,7 +33364,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1464350693 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -3450239975951220589, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -32240,7 +33422,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1469321658 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -5312903245619218078, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -32274,7 +33459,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 1
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &1469321667
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -32351,7 +33539,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1473400122 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6717323030268542538, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -32406,7 +33597,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1475748630 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -8779501014229229815, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -32461,7 +33655,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1484857781 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6415974750470418601, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -32516,7 +33713,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1484865310 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -4235762927216092629, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -32562,7 +33762,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &1484865320
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -32639,7 +33842,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1494585856 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -1058593233190673863, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -32673,7 +33879,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 1
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &1494585865
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -32750,7 +33959,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1503061330 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -1258542335487457619, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -32805,7 +34017,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1503077831 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -3401602353622481999, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -32860,7 +34075,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1512615334 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5193593091442669403, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -32906,7 +34124,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &1512615344
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -32983,7 +34204,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1517360517 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7653169016931091187, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -33029,7 +34253,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 99
 --- !u!64 &1517360529
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -33106,7 +34333,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1522342584 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -5106873784667214453, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -33161,7 +34391,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1522826627 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -424036597623246390, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -33216,7 +34449,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1529447216 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8197647985847502647, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -33271,7 +34507,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1530188912 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2536316001222795423, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -33326,7 +34565,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1537283783 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -5170102477553356737, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -33381,7 +34623,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1555682913 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -3480954962563304429, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -33436,7 +34681,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1564943343 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -8809217654362367794, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -33491,7 +34739,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1568145714 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7000671147051970192, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -33546,7 +34797,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1575570185 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -5021454268250492166, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -33601,7 +34855,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1579956113 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 415819851498619132, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -33656,7 +34913,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1583819522 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6279176565822667707, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -33702,7 +34962,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &1583819532
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -33779,7 +35042,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1590509844 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -2020728620140883952, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -33834,7 +35100,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1592462453 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3446122188017626015, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -33889,7 +35158,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1603114672 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -860630711865514840, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -33944,7 +35216,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1608845711 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -9211302804556371514, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -33990,7 +35265,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &1608845721
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -34067,7 +35345,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1618461904 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -771176662415442096, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -34122,7 +35403,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1633676244 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3620703281101136987, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -34177,7 +35461,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1634568938 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -4328933322571511435, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -34211,7 +35498,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 1
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &1634568947
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -34288,7 +35578,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1642815707 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4072391488429176506, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -34334,7 +35627,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &1642815717
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -34411,7 +35707,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1645572635 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1917342095000033516, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -34445,7 +35744,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 1
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &1645572644
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -34522,7 +35824,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1650536570 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -7688456063462580058, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -34577,7 +35882,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1651362631 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -225672237972959593, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -34632,7 +35940,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1652944294 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -2744915588756002021, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -34687,7 +35998,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1654536261 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -5186057502490837309, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -34721,7 +36035,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 1
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &1654536270
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -34798,7 +36115,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1666279943 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 717418874637044924, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -34853,7 +36173,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1667656451 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -5903272705301118715, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -34908,7 +36231,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1679098957 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4999759506701010785, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -34963,7 +36289,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1690649758 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8500439633221871596, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -35018,7 +36347,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1690722905 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5009894165021142657, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -35073,7 +36405,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1691451007 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -5547181456741445581, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -35128,7 +36463,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1691753877 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5511035485920679278, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -35183,7 +36521,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1692843114 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1340528691256719698, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -35238,7 +36579,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1693858135 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -580362873842360723, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -35293,7 +36637,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1696583102 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4637276954637193892, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -35348,7 +36695,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1700632729 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -6838405499722275583, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -35403,7 +36753,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1702817187 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3888617581173956154, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -35449,7 +36802,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &1702817197
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -35505,7 +36861,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 1
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &1705221004
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -35582,7 +36941,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1714724215 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -4005693318828484527, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -35637,7 +36999,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1722767115 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3684991429827676534, guid: 920bb2a5c0bf1c84eb729f0be00eae4e, type: 3}
@@ -35671,7 +37036,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!65 &1722767119
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -35738,7 +37106,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &1727175046
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -35815,7 +37186,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1729198365 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -5561889905485251425, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -35870,7 +37244,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1733948753 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1243409650584730811, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -35904,7 +37281,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 1
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &1733948762
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -35981,7 +37361,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1738204882 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3715474405585538595, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -36036,7 +37419,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1739691513 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -3184785472096031765, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -36091,7 +37477,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1741958651 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -913011084425646014, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -36146,7 +37535,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1744709271 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -930226779538241248, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -36180,7 +37572,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 1
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &1744709280
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -36257,7 +37652,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1001 &1749653285
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -36443,7 +37841,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1752427850 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -538357766442587799, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -36489,7 +37890,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &1752427860
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -36566,7 +37970,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1753853371 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8919080041353055640, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -36621,7 +38028,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1773884136 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4552151806740833596, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -36676,7 +38086,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1777306453 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3852634278234682558, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -36710,7 +38123,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 1
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &1777306462
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -36766,7 +38182,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 1
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &1777991115
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -36822,7 +38241,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 1
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &1778310682
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -36899,7 +38321,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1789583574 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2856005970737041190, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -36954,7 +38379,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1791389982 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -2325458471126149245, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -36988,7 +38416,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 1
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &1791389991
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -37044,7 +38475,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1804706866 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4903914134707772324, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -37099,7 +38533,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1806314281 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1389886286485450723, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -37154,7 +38591,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1806348508 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4321232968081539676, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -37209,7 +38649,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1807795235 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2684311540600943526, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -37264,7 +38707,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1810017944 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -6562052239938985842, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -37319,7 +38765,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1811135044 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -6002302094213292732, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -37374,7 +38823,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1811966557 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -6521626275425060835, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -37429,7 +38881,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1813940782 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5562333083272469392, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -37484,7 +38939,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1815490879 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -7880088340705190441, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -37539,7 +38997,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1818303567 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6616164644058319274, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -37594,7 +39055,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1819974423 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3908845167803853101, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -37649,7 +39113,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1820415337 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7108327114349404708, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -37704,7 +39171,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1826581835 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -7772999120594320666, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -37759,7 +39229,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1829093412 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -7611756955946534124, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -37814,7 +39287,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1831103973 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2101910558469601125, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -37860,7 +39336,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &1831103983
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -37937,7 +39416,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1831959990 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4174307374427115824, guid: 920bb2a5c0bf1c84eb729f0be00eae4e, type: 3}
@@ -37971,7 +39453,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!65 &1831959994
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -38047,7 +39532,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1849084657 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2740839504973007132, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -38102,7 +39590,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1850125462 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1004277965813429664, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -38157,7 +39648,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1852352343 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -7400431590373568276, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -38212,7 +39706,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1853815734 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -6436366035942016448, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -38246,7 +39743,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 1
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &1853815743
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -38323,7 +39823,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1859202356 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -4673404498164416176, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -38378,7 +39881,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1860965132 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -1665527559352240995, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -38433,7 +39939,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1864535657 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 922950037970716173, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -38467,7 +39976,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 1
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &1864535666
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -38544,7 +40056,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1870194571 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8510194627242421398, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -38599,7 +40114,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1870328400 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5143625754109953083, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -38654,7 +40172,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1871822172 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -568546866024965148, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -38709,7 +40230,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1876371458 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -3023181650543198450, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -38764,7 +40288,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1885744619 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -6222507204767813530, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -38819,7 +40346,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1892969690 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -4613677846952530447, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -38874,7 +40404,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1897201510 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -334402987926051399, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -38929,7 +40462,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!224 &1907891229 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 7010555995546084814, guid: ebc85c342bf2a3849870d7a2ef40f828, type: 3}
@@ -38989,7 +40525,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1916703316 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -6823930549984520945, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -39044,7 +40583,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1920907386 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1180677352971757766, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -39090,7 +40632,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &1920907396
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -39167,7 +40712,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1001 &1925927416
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -39176,6 +40724,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4321929526007854994, guid: 6cae1fd58295bab4a9c6b2a624e697f9, type: 3}
+      propertyPath: smooth
+      value: 
+      objectReference: {fileID: 2100000, guid: f7276b7e44362d346bd950ee599a657e, type: 2}
+    - target: {fileID: 4321929526007854994, guid: 6cae1fd58295bab4a9c6b2a624e697f9, type: 3}
+      propertyPath: smoothFinish
+      value: 
+      objectReference: {fileID: 2100000, guid: 13885dec02b65fe4b887a456015d5303, type: 2}
     - target: {fileID: 4321929526007854994, guid: 6cae1fd58295bab4a9c6b2a624e697f9, type: 3}
       propertyPath: selectedSurface
       value: 
@@ -39314,7 +40870,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1930681906 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -1768912573371432978, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -39369,7 +40928,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1941324926 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6941869752251133412, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -39424,7 +40986,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1949807231 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3078421112373651705, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -39479,7 +41044,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1951216714 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -1220286922083494030, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -39513,7 +41081,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 1
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &1951216723
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -39569,7 +41140,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!65 &1951394655
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -39636,7 +41210,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 176
 --- !u!64 &1951744426
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -39713,7 +41290,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1958261915 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -7325909578406632459, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -39768,7 +41348,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1959384927 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -5716168192494826481, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -39823,7 +41406,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1959508686 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3252575353437621949, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -39878,7 +41464,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1961830663 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2213694042006457446, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -39924,7 +41513,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &1961830673
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -40001,7 +41593,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1968182433 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -1174736609979529364, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -40056,7 +41651,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1971829076 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -8483785768031666481, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -40111,7 +41709,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1973059494 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -1703870066860275341, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -40157,7 +41758,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &1973059504
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -40234,7 +41838,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1978832193 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -4602073798607299104, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -40289,7 +41896,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1984644031 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5631898070029965900, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -40335,7 +41945,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &1984644041
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -40403,7 +42016,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &1990006369
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -40480,7 +42096,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1001 &1995354353
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -40489,6 +42108,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1033261509529928344, guid: baf39f23a5f5edd499e53a7ff0340ae9, type: 3}
+      propertyPath: smoothFinish
+      value: 
+      objectReference: {fileID: 2100000, guid: f7276b7e44362d346bd950ee599a657e, type: 2}
     - target: {fileID: 5698049012259472795, guid: baf39f23a5f5edd499e53a7ff0340ae9, type: 3}
       propertyPath: m_LocalPosition.x
       value: 12.41011
@@ -40597,7 +42220,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 1
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &1997465478
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -40674,7 +42300,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &1999288009 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6674906347310181595, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -40729,7 +42358,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &2006032677 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5197830359701965699, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -40784,7 +42416,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &2006571588 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6596191657647943387, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -40839,7 +42474,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &2008611649 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -1582620468241012064, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -40873,7 +42511,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 1
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &2008611658
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -40941,7 +42582,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &2009590328
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -41018,7 +42662,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &2015547972 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1982126056886864208, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -41073,7 +42720,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &2016224740 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3448184519158609873, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -41128,7 +42778,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &2026376826 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -3635819464302538389, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -41183,7 +42836,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &2030873375 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 447925830299433984, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -41238,7 +42894,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &2033336652 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2131667088045110607, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -41293,7 +42952,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &2035971553 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -6575869839572556270, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -41327,7 +42989,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 1
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &2035971562
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -41404,7 +43069,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &2036549701 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6127069615272392247, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -41459,7 +43127,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &2037696404 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -2334125326584693549, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -41514,7 +43185,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &2038704576 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2717861501584020604, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -41569,7 +43243,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &2038985087 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -674449036139524865, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -41624,7 +43301,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 3
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &2041798647 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1262889447782178454, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -41705,7 +43385,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &2048111719 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -7263468533988980789, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -41760,7 +43443,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &2054250746 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -5147227321575358823, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -41794,7 +43480,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 1
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &2054250755
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -41871,7 +43560,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &2062424047 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -3361909182073371021, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -41926,7 +43618,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &2066314895
 GameObject:
   m_ObjectHideFlags: 0
@@ -42108,7 +43803,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &2075639607 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -937831064899024583, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -42154,7 +43852,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &2075639617
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -42222,7 +43923,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &2076464888
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -42299,7 +44003,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &2080545284 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -7492044361224178885, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -42354,7 +44061,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &2085214070 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7226236418062474386, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -42409,7 +44119,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1001 &2091525961
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -42520,7 +44233,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 1
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &2098658172
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -42588,7 +44304,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &2109828846
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -42691,7 +44410,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &2120023136 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -1572029075584588376, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -42746,7 +44468,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &2123316261 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2649675023498552897, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -42801,7 +44526,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &2124042161 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -1875149585758290342, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -42856,7 +44584,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &2134406821 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -1523028486612786340, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -42911,7 +44642,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &2142008098 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -7598951743081280088, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -42966,7 +44700,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 0
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!1 &2145843348 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2989737447237827521, guid: 659179a5f4c4101429665d730a921b09, type: 3}
@@ -43000,7 +44737,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SurfaceData
   surfaceID: 
   surfaceType: 1
-  area: 0
+  area_sqft: 0
+  length: 0
+  width: 0
+  Area_Offset: 0
 --- !u!64 &2145843357
 MeshCollider:
   m_ObjectHideFlags: 0

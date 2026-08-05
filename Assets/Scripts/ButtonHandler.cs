@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.EventSystems;
+using System.Collections.Generic;
 
 public class ButtonHandler : MonoBehaviour
 {
@@ -11,6 +12,22 @@ public class ButtonHandler : MonoBehaviour
     public Material smoothFinish;
     public Material threeDPrintedFinish;
     */
+
+    //public float takeOff;
+    //public SurfaceData[] surfaces;
+    //public List<SurfaceData> printedWalls = new List<SurfaceData>();
+
+    void Start() {
+        SelectionManager.Instance.surfaces = FindObjectsByType<SurfaceData>();
+        foreach (SurfaceData surface in SelectionManager.Instance.surfaces)
+        {
+            if (surface.surfaceType == SurfaceType.Exterior_Wall ||
+                surface.surfaceType == SurfaceType.Interior_Wall)
+            {
+                SelectionManager.Instance.printedWalls.Add(surface);
+            }
+        }
+    }
 
     private void Update()
     {
@@ -30,11 +47,37 @@ public class ButtonHandler : MonoBehaviour
         */
     }
 
+    public void CalculateTakeOff() {
+        Material smoothFinish = SelectionManager.Instance.smoothFinish;
+        SelectionManager.Instance.takeOff = 0;
+
+        Debug.Log(smoothFinish);
+
+        foreach (SurfaceData wall in SelectionManager.Instance.printedWalls) {
+            if (wall.GetComponent<Renderer>().material.name.Contains(smoothFinish.name))
+            {
+                Debug.Log(wall.name);
+                SelectionManager.Instance.takeOff += wall.Area;
+            }
+        }
+    }
+
     public void ApplyMaterial(GameObject clickedButton)
     {
+        Material surfaceMat = SelectionManager.Instance.selectedSurface.GetComponent<Renderer>().material;
+        Material smoothFinish = SelectionManager.Instance.smoothFinish;
+
         MaterialChanger surface = SelectionManager.Instance.selectedSurface.GetComponent<MaterialChanger>();
         Material mat = clickedButton.GetComponent<ButtonMaterial>().buttonMaterial;
         surface.ChangeMaterial(mat);
+
+        //Debug.Log($"Material was: {surfaceMat} and is now: {mat}");
+        if (surfaceMat.name.Contains(smoothFinish.name) || mat == smoothFinish)
+        {
+            CalculateTakeOff();
+            Debug.Log($"Takeoff is: {SelectionManager.Instance.takeOff}");
+        }
+            
     }
 
     /*
