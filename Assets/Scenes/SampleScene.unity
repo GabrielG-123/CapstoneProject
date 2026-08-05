@@ -840,7 +840,7 @@ MonoBehaviour:
   - {fileID: 2100000, guid: f7276b7e44362d346bd950ee599a657e, type: 2}
   floorMaterials:
   - {fileID: 2100000, guid: 13885dec02b65fe4b887a456015d5303, type: 2}
-  - {fileID: 2100000, guid: 471725a4ef7de6c44a906b242a16095b, type: 2}
+  - {fileID: 2100000, guid: 6b911390c5825014e8377183a7837d3f, type: 2}
   - {fileID: 2100000, guid: 7ab977a21c92388468ee65ad1c0e5a78, type: 2}
   - {fileID: 2100000, guid: ff188f58422043f489060e28a5e4e0c0, type: 2}
   itemSlot: {fileID: 2274890763905602765, guid: 4f2716da44e04284381b97c3ac391d8a, type: 3}
