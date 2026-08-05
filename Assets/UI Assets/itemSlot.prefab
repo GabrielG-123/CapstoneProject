@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 4303179899444478870}
   - component: {fileID: 7191586674224945421}
   - component: {fileID: 6615421173159410499}
+  - component: {fileID: -8812980334127027869}
   m_Layer: 5
   m_Name: itemSlot
   m_TagString: Untagged
@@ -119,7 +120,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 4321929526007854994, guid: 6cae1fd58295bab4a9c6b2a624e697f9, type: 3}
         m_TargetAssemblyTypeName: ButtonHandler, Assembly-CSharp
-        m_MethodName: FloorTextureApply
+        m_MethodName: ApplyMaterial
         m_Mode: 2
         m_Arguments:
           m_ObjectArgument: {fileID: 2274890763905602765}
@@ -129,3 +130,16 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 1
+--- !u!114 &-8812980334127027869
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2274890763905602765}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a11197af805d67c4faecc6f3d9669129, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ButtonMaterial
+  buttonMaterial: {fileID: 0}

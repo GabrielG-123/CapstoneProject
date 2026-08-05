@@ -7,9 +7,9 @@ public class MenuController : MonoBehaviour
     public FirstPersonController fpsController;
     public GameObject UI_Panel;
     public GameObject ExitButton;
-   public GameObject ScrollPanel;
-    public GameObject ThreeDSelectionPanel;
-    public GameObject floorUI;
+    public GameObject ScrollPanel;
+    //public GameObject ThreeDSelectionPanel;
+    //public GameObject floorUI;
     public GameObject crosshair;
     
 
@@ -45,7 +45,7 @@ public class MenuController : MonoBehaviour
         }
 
         
-
+        /*
         if (ThreeDSelectionPanel != null)
         {
             Debug.Log("ThreeDSelectionPanel is assigned in the inspector.");
@@ -56,6 +56,7 @@ public class MenuController : MonoBehaviour
             Debug.LogWarning("ThreeDSelectionPanel is not assigned in the inspector.");
             return;
         }
+        */
 
         if (ScrollPanel != null) { 
         
@@ -104,10 +105,10 @@ public class MenuController : MonoBehaviour
         
         if(ScrollPanel != null) 
        {
-            if (SelectionManager.Instance.floorClicked)
-            {
-                ScrollPanel.SetActive(true); // Show the scroll panel
-            }
+            //if (SelectionManager.Instance.floorClicked)
+            //{
+            ScrollPanel.SetActive(true); // Show the scroll panel
+            //}
        }
 
         if (ExitButton != null) 
@@ -118,30 +119,41 @@ public class MenuController : MonoBehaviour
 
     }
 
+    private void DePopulateTextureGrid()
+    {
+        foreach (Transform itemSlot in UI_Panel.transform)
+        {
+            Destroy(itemSlot.gameObject);
+            //Debug.Log(itemSlot.name);
+            //Debug.Log(itemSlot.GetComponent<ButtonMaterial>().buttonMaterial);
+        }
+    }
 
     public void CloseMenu()
     {
         //  UI_Panel.SetActive(false); // Hide the UI panel
         menuActive = false; // Set the menuActive flag to false
-        SelectionManager.Instance.wallClicked = false;
-        SelectionManager.Instance.floorClicked = false;
+        //SelectionManager.Instance.wallClicked = false;
+        //SelectionManager.Instance.floorClicked = false;
         if (ExitButton != null)
         {
             ExitButton.SetActive(false); // Hide the exit button
         }
        
-
+        /*
         if (ThreeDSelectionPanel != null)
         {
             ThreeDSelectionPanel.SetActive(false); // Hide the 3D selection panel
         }
-
+        */
         
         
         if (ScrollPanel != null) {
             ScrollPanel.SetActive(false);
         
         }
+
+        DePopulateTextureGrid();
     }
 
 }

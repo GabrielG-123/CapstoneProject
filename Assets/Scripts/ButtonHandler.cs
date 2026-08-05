@@ -4,14 +4,17 @@ using UnityEngine.EventSystems;
 
 public class ButtonHandler : MonoBehaviour
 {
+    /*
     public Texture textureImage;
     public MaterialChanger wall;
     public Renderer wallRenderer;
     public Material smoothFinish;
     public Material threeDPrintedFinish;
+    */
 
     private void Update()
     {
+        /*
         if (SelectionManager.Instance != null && SelectionManager.Instance.selectedWall != null)
         {
             wall = SelectionManager.Instance.selectedWall.GetComponent<MaterialChanger>();
@@ -24,9 +27,17 @@ public class ButtonHandler : MonoBehaviour
         {
             wall = null;
         }
+        */
     }
 
+    public void ApplyMaterial(GameObject clickedButton)
+    {
+        MaterialChanger surface = SelectionManager.Instance.selectedSurface.GetComponent<MaterialChanger>();
+        Material mat = clickedButton.GetComponent<ButtonMaterial>().buttonMaterial;
+        surface.ChangeMaterial(mat);
+    }
 
+    /*
     public void FloorTextureApply(GameObject clickedButton)
     {
 
@@ -76,5 +87,5 @@ public class ButtonHandler : MonoBehaviour
 
 
     }
-
+    */
 }

@@ -2,7 +2,8 @@ using UnityEngine;
 
 public enum SurfaceType
 {
-    Printed_Wall,
+    Exterior_Wall,
+    Interior_Wall,
     Framed_Wall,
     Floor,
     Ceiling

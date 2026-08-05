@@ -5,11 +5,13 @@ public class SelectionManager : MonoBehaviour
 
     public static SelectionManager Instance { get; private set; }
 
-    public GameObject selectedWall { get; private set; }
-    public GameObject selectedFloor { get; private set; }
+    //public GameObject selectedWall { get; private set; }
+    //public GameObject selectedFloor { get; private set; }
 
-    public bool wallClicked;
-    public bool floorClicked;
+    public GameObject selectedSurface;
+
+    //public bool wallClicked;
+    //public bool floorClicked;
   
 
 
@@ -36,7 +38,7 @@ public class SelectionManager : MonoBehaviour
         
     }
 
-
+    /*
     public void SelectWallClick(GameObject wall)
     {
         selectedWall = wall;
@@ -48,4 +50,5 @@ public class SelectionManager : MonoBehaviour
         selectedFloor = floor;
     
     }
+    */
 }
