@@ -5,17 +5,7 @@ using System.Collections.Generic;
 
 public class ButtonHandler : MonoBehaviour
 {
-    /*
-    public Texture textureImage;
-    public MaterialChanger wall;
-    public Renderer wallRenderer;
-    public Material smoothFinish;
-    public Material threeDPrintedFinish;
-    */
-
-    //public float takeOff;
-    //public SurfaceData[] surfaces;
-    //public List<SurfaceData> printedWalls = new List<SurfaceData>();
+    public ColorWheelPicker colorPicker;
 
     void Start() {
         SelectionManager.Instance.surfaces = FindObjectsByType<SurfaceData>();
@@ -27,6 +17,8 @@ public class ButtonHandler : MonoBehaviour
                 SelectionManager.Instance.printedWalls.Add(surface);
             }
         }
+
+        CalculateTakeOff();
     }
 
     private void Update()
@@ -51,84 +43,50 @@ public class ButtonHandler : MonoBehaviour
         Material smoothFinish = SelectionManager.Instance.smoothFinish;
         SelectionManager.Instance.takeOff = 0;
 
-        Debug.Log(smoothFinish);
-
         foreach (SurfaceData wall in SelectionManager.Instance.printedWalls) {
             if (wall.GetComponent<Renderer>().material.name.Contains(smoothFinish.name))
             {
-                Debug.Log(wall.name);
                 SelectionManager.Instance.takeOff += wall.Area;
             }
         }
+
+        SelectionManager.Instance.takeoffText.text = $"Smooth Finish: {SelectionManager.Instance.takeOff:F1} sq ft";
+    }
+
+    public void ApplyColor()
+    {
+        if (SelectionManager.Instance.selectedSurface == null)
+        {
+            Debug.LogWarning("No surface selected!");
+            return;
+        }
+
+        Renderer renderer = SelectionManager.Instance.selectedSurface.GetComponent<Renderer>();
+
+        Color pickedColor = colorPicker.SelectedColor;
+
+        renderer.material.SetColor("_BaseColor", pickedColor);
     }
 
     public void ApplyMaterial(GameObject clickedButton)
     {
-        Material surfaceMat = SelectionManager.Instance.selectedSurface.GetComponent<Renderer>().material;
+        Renderer renderer = SelectionManager.Instance.selectedSurface.GetComponent<Renderer>();
+
+        Material surfaceMat = renderer.material;
+        Color surfaceColor = renderer.material.color;
         Material smoothFinish = SelectionManager.Instance.smoothFinish;
 
         MaterialChanger surface = SelectionManager.Instance.selectedSurface.GetComponent<MaterialChanger>();
         Material mat = clickedButton.GetComponent<ButtonMaterial>().buttonMaterial;
         surface.ChangeMaterial(mat);
 
-        //Debug.Log($"Material was: {surfaceMat} and is now: {mat}");
+        renderer.material.SetColor("_BaseColor", surfaceColor);
+ 
         if (surfaceMat.name.Contains(smoothFinish.name) || mat == smoothFinish)
         {
             CalculateTakeOff();
-            Debug.Log($"Takeoff is: {SelectionManager.Instance.takeOff}");
+            //Debug.Log($"Takeoff is: {SelectionManager.Instance.takeOff}");
         }
             
     }
-
-    /*
-    public void FloorTextureApply(GameObject clickedButton)
-    {
-
-        // Now you get the RawImage from the button that was clicked
-        RawImage rawImage = clickedButton.GetComponent<RawImage>();
-
-        if (rawImage != null)
-        {
-            Debug.Log("The name of the button is: " + clickedButton.name);
-            Debug.Log("Button texture: " + rawImage.texture.name);
-
-            textureImage = rawImage.texture; // Assign the texture from the clicked button to the textureImage variable
-        }
-
-        if (SelectionManager.Instance.selectedFloor != null)
-        {
-            Renderer wallRenderer = SelectionManager.Instance.selectedFloor.GetComponent<Renderer>();
-            if (wallRenderer != null)
-            {
-               // Debug.Log("Applying texture to wall: " + SelectionManager.Instance.selectedWall.name);
-                wallRenderer.material.mainTexture = textureImage;
-            }
-        }
-    }
-
-
-
-    public void SmoothFinishClick()
-    {
-
-        if (wall == null) wallRenderer.material = smoothFinish;
-        else wall.ChangeMaterial(smoothFinish);
-
-        Debug.Log("Smooth finish applied to wall: " + gameObject.name);
-
-
-
-    }
-
-
-    public void ExposedFinishClick()
-    {
-
-
-        if (wall == null) wallRenderer.material = threeDPrintedFinish;
-        else wall.ChangeMaterial(threeDPrintedFinish);
-
-
-    }
-    */
 }

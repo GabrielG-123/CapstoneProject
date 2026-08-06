@@ -1,5 +1,6 @@
 using UnityEngine;
 using System.Collections.Generic;
+using TMPro;
 
 public class SelectionManager : MonoBehaviour
 {
@@ -15,6 +16,8 @@ public class SelectionManager : MonoBehaviour
     public float takeOff;
     public SurfaceData[] surfaces;
     public List<SurfaceData> printedWalls = new List<SurfaceData>();
+
+    public TMP_Text takeoffText;
 
     //public bool wallClicked;
     //public bool floorClicked;

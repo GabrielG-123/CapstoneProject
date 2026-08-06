@@ -8,32 +8,17 @@ public class MenuController : MonoBehaviour
     public GameObject UI_Panel;
     public GameObject ExitButton;
     public GameObject ScrollPanel;
-    //public GameObject ThreeDSelectionPanel;
-    //public GameObject floorUI;
+    public GameObject ColorIcon;
+    public GameObject ColorPreview;
+
     public GameObject crosshair;
     
-
-
     public bool menuActive; // Flag to track if the menu is active
 
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        //if (UI_Panel != null)
-        //{
-        //    UI_Panel.SetActive(false);
-        //    // Ensure the UI panel is initially hidden
-        //}
-        //else {
-
-        //    return;
-        
-        //}
-
-
-
-
 
         if (ExitButton != null)
         {
@@ -44,25 +29,19 @@ public class MenuController : MonoBehaviour
 
         }
 
-        
-        /*
-        if (ThreeDSelectionPanel != null)
-        {
-            Debug.Log("ThreeDSelectionPanel is assigned in the inspector.");
-            ThreeDSelectionPanel.SetActive(false); // Ensure the 3D selection panel is initially hidden
-        }
-        else
-        {
-            Debug.LogWarning("ThreeDSelectionPanel is not assigned in the inspector.");
-            return;
-        }
-        */
-
         if (ScrollPanel != null) { 
         
         
             ScrollPanel.SetActive(false);
         
+        }
+        if (ColorIcon != null) 
+        { 
+            ColorIcon.SetActive(false);
+        }
+        if (ColorPreview != null)
+        {
+            ColorPreview.SetActive(false);
         }
         else
         {
@@ -99,23 +78,24 @@ public class MenuController : MonoBehaviour
 
     public void OpenMenu()
     {
-       //
-       //UI_Panel.SetActive(true); // Show the UI panel
-       
         
         if(ScrollPanel != null) 
        {
-            //if (SelectionManager.Instance.floorClicked)
-            //{
             ScrollPanel.SetActive(true); // Show the scroll panel
-            //}
        }
 
         if (ExitButton != null) 
         {
             ExitButton.SetActive(true); // Show the exit button
         }
-
+        if (ColorIcon != null)
+        {
+            ColorIcon.SetActive(true);
+        }
+        if (ColorPreview != null)
+        { 
+            ColorPreview.SetActive(true); 
+        }
 
     }
 
@@ -131,26 +111,23 @@ public class MenuController : MonoBehaviour
 
     public void CloseMenu()
     {
-        //  UI_Panel.SetActive(false); // Hide the UI panel
         menuActive = false; // Set the menuActive flag to false
-        //SelectionManager.Instance.wallClicked = false;
-        //SelectionManager.Instance.floorClicked = false;
+
         if (ExitButton != null)
         {
             ExitButton.SetActive(false); // Hide the exit button
         }
-       
-        /*
-        if (ThreeDSelectionPanel != null)
-        {
-            ThreeDSelectionPanel.SetActive(false); // Hide the 3D selection panel
-        }
-        */
-        
         
         if (ScrollPanel != null) {
             ScrollPanel.SetActive(false);
-        
+        }
+        if (ColorIcon != null) 
+        {
+            ColorIcon.SetActive(false);
+        }
+        if (ColorPreview != null)
+        {
+            ColorPreview.SetActive(false);
         }
 
         DePopulateTextureGrid();

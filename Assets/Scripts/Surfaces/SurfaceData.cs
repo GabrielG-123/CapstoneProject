@@ -6,7 +6,8 @@ public enum SurfaceType
     Interior_Wall,
     Framed_Wall,
     Floor,
-    Ceiling
+    Ceiling,
+    Misc
 }
 
 public class SurfaceData : MonoBehaviour

@@ -40,10 +40,12 @@ public class SurfaceClick : MonoBehaviour
 
                     if (data.surfaceType == SurfaceType.Exterior_Wall || data.surfaceType == SurfaceType.Interior_Wall)
                         materials = printedWallMaterials;
-                    else if (data.surfaceType == SurfaceType.Floor) 
+                    else if (data.surfaceType == SurfaceType.Floor)
                         materials = floorMaterials;
 
-                    PopulateTextureGrid(materials);
+                    if (materials != null)
+                        PopulateTextureGrid(materials);
+                    //return;
 
                     menuController.OpenMenu();
                     menuController.menuActive = true;
