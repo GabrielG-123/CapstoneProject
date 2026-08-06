@@ -3,6 +3,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.UIElements;
 using UnityEngine.InputSystem;
+using UnityEngine.EventSystems;
 
 public class SurfaceClick : MonoBehaviour
 {
@@ -25,6 +26,10 @@ public class SurfaceClick : MonoBehaviour
     {
         if (Mouse.current != null && Mouse.current.leftButton.wasPressedThisFrame)
         {
+            // Ignore clicks on UI
+            if (EventSystem.current.IsPointerOverGameObject())
+                return;
+
             Vector2 screenPos = Mouse.current.position.ReadValue();
 
             Ray ray = Camera.main.ScreenPointToRay(screenPos);
@@ -34,24 +39,25 @@ public class SurfaceClick : MonoBehaviour
                 SurfaceData data = obj.GetComponent<SurfaceData>();
                 MaterialChanger mat = obj.GetComponent<MaterialChanger>();
 
-                if (menuController.menuActive == false && data != null && mat != null)
-                {
-                    List<Material> materials = null;
+                List<Material> materials = null;
 
+                if (data != null)
+                {
                     if (data.surfaceType == SurfaceType.Exterior_Wall || data.surfaceType == SurfaceType.Interior_Wall)
                         materials = printedWallMaterials;
                     else if (data.surfaceType == SurfaceType.Floor)
                         materials = floorMaterials;
-
-                    if (materials != null)
-                        PopulateTextureGrid(materials);
-                    //return;
-
-                    menuController.OpenMenu();
-                    menuController.menuActive = true;
-
-                    SelectionManager.Instance.selectedSurface = obj;
                 }
+
+                if (menuController.menuActive == true) menuController.CloseMenu();
+
+                if (materials != null)
+                    PopulateTextureGrid(materials);
+  
+                menuController.OpenMenu();
+                menuController.menuActive = true;
+
+                SelectionManager.Instance.selectedSurface = obj;
             }
         }
     }
